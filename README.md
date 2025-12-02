@@ -1,6 +1,6 @@
 
 # The-Study-Corner-Website project
-# Review link : https://drive.google.com/file/d/108OhYIlXS0VYEdtiA3LHHQovuB2mZpxw/view?usp=sharing
+ * Review link : https://drive.google.com/file/d/108OhYIlXS0VYEdtiA3LHHQovuB2mZpxw/view?usp=sharing
 
 # Technologies used
  * Spring FrameWork
